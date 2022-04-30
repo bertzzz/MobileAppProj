@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1074050808424",
+    "firebase_url": "https://robstoreapp.firebaseio.com",
+    "project_id": "robstoreapp",
+    "storage_bucket": "robstoreapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074050808424:android:5bcc5cef2f8e9646ded9dd",
+        "android_client_info": {
+          "package_name": "ca.robertonicanor.robstoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074050808424-ah39t981o7dqmh48jl82ij227kupe73i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ca.robertonicanor.robstoreapp",
+            "certificate_hash": "d936f5fa0b2f2100099e9a62642bfbfce10f534e"
+          }
+        },
+        {
+          "client_id": "1074050808424-mnccpqgspm92imb7v5ep973bqs1s7bqa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ca.robertonicanor.robstoreapp",
+            "certificate_hash": "5f8eaa8d4658d43adc7bbfd84252accd763f9c2f"
+          }
+        },
+        {
+          "client_id": "1074050808424-fljhv4hnfts996efst3lldfl3p77vj7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfMyC-3ZRiyGD9JFFFg2mOYZkq7T8A8HM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074050808424-fljhv4hnfts996efst3lldfl3p77vj7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
